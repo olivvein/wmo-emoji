@@ -1,0 +1,11 @@
+{
+  "name": "wmo-emoji",
+  "version": "1.0.1",
+  "description": "convert wmo weather code to emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
